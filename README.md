@@ -1,6 +1,6 @@
 # Datos Abiertos - Obras del MOPC
 
-_Con este proyecto se puede obtener los datos en formato csv acerca de las obras realizadas por el Ministerio de Obras Públicas y Comunicaciones. Las obras son publicadas por la institució mencionada y se encuentran en formato de mapa interactivo en el siguiente [enlace](https://www.mopc.gov.py/mopcweb/index.php/unidades-y-comisiones/direcciones-y-unidades/banco-mundial/namopora-nanderape/mapa-interactivo-de-obras)_
+_Con este proyecto se puede obtener los datos en formato csv acerca de las obras realizadas por el Ministerio de Obras Públicas y Comunicaciones. Las obras son publicadas por la institución mencionada y se encuentran en formato de mapa interactivo en el siguiente [enlace](https://www.mopc.gov.py/mopcweb/index.php/unidades-y-comisiones/direcciones-y-unidades/banco-mundial/namopora-nanderape/mapa-interactivo-de-obras)_
 
 ## Comenzando 🚀
 
