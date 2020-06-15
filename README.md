@@ -26,7 +26,7 @@ En los siguientes enlaces podrás cononcer cómo descargar e instalar lo mencion
 
 1. Inicia la aplicación PyCharm
 
-2. Abre el proyecto de la siguiente manera: En el PyCharm, haz click en File -> Open... y selecciona la carpeta que contiene el proyecto, el que ubicaste en el directorio de archivos de tu usuario. Finalmente haz click en Ok y espera a que carga finalice.
+2. Abre el proyecto de la siguiente manera: En el PyCharm, haz click en File -> Open... y selecciona la carpeta que contiene el proyecto, el que ubicaste en el directorio de archivos de tu usuario. Finalmente haz click en Ok y espera a que la carga finalice.
 
 _**IMPORTANTE:** si el archivo mapa_obras.csv ya existe en la carpeta del proyecto, se recomienda eliminarlo antes de pasar al siguiente paso_
 
@@ -36,7 +36,7 @@ _**IMPORTANTE:** si el archivo mapa_obras.csv ya existe en la carpeta del proyec
 scrapy crawl mapa -o mapa_obras.csv
 ```
 
-_Una vez finalizada la ejecución, podrás observar que en la carpeta del proyecto se generó un archivo llamado mapa_obras.csv, este es el archivo que contiene los datos acerca de las obras realizadas por el MOPC._
+_Una vez finalice la ejecución, podrás observar que en la carpeta del proyecto se generó un archivo llamado mapa_obras.csv, este es el archivo que contiene los datos acerca de las obras realizadas por el MOPC._
  
 ## Entendiendo el csv
 _Para comprender los campos del archivo csv, se debe leer el [Diccionario de datos](Diccionario_de_datos.xlsx)_
@@ -47,4 +47,4 @@ _Para comprender los campos del archivo csv, se debe leer el [Diccionario de dat
 
 ## Licencia 📄
 
-Este proyecto está bajo la licencia CC0 1.0 Universal - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la licencia CC0 1.0 Universal - mira el archivo [LICENSE.md](LICENSE.md) para más detalles
