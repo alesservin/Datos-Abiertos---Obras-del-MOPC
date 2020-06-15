@@ -4,7 +4,7 @@ _Con este proyecto se puede obtener los datos en formato csv acerca de las obras
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local._
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local y te permitirá saber cómo ejecutarlo
 
 ### Pre-requisitos 📋
 
@@ -39,7 +39,7 @@ scrapy crawl mapa -o mapa_obras.csv
 _Una vez finalizada la ejecución, podrás observar que en la carpeta del proyecto se generó un archivo llamado mapa_obras.csv, este es el archivo que contiene los datos acerca de las obras realizadas por el MOPC._
  
 ## Entendiendo el csv
-_Para comprender los campos del archivo csv, se debe leer el [Diccionario de datos](https://github.com/alesservin/Datos-Abiertos---Obras-del-MOPC/blob/master/Diccionario_de_datos.xlsx)
+_Para comprender los campos del archivo csv, se debe leer el [Diccionario de datos](Diccionario_de_datos.xlsx)_
 
 ## Autor ✒️
 
@@ -47,4 +47,4 @@ _Para comprender los campos del archivo csv, se debe leer el [Diccionario de dat
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la licencia CC0 1.0 Universal - mira el archivo [LICENSE.md](LICENSE.md) para detalles
