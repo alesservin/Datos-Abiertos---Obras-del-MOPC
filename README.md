@@ -4,7 +4,7 @@ _Con este proyecto se puede obtener los datos en formato csv acerca de las obras
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local y te permitirá saber cómo ejecutarlo
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local y te permitirá saber cómo ejecutarlo_
 
 ### Pre-requisitos 📋
 
