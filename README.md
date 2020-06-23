@@ -17,6 +17,16 @@ En los siguientes enlaces podrás cononcer cómo descargar e instalar lo mencion
 
 ### Instalación 🔧
 
+Con git
+1. Crea una carpeta en el directorio de archivos de tu usuario. Ejemplo: C:\Users\Acer
+2. Abre el Git Bash en la carpeta creada.
+3. Ejecuta la siguiente línea para obtener una copia del repositorio
+```
+git clone https://github.com/alesservin/Datos-Abiertos---Obras-del-MOPC
+```
+
+
+Sin git
 1. Dirígete al repositorio de este proyecto y descarga los archivos del proyecto haciendo click "Clone or Download" y ["Download Zip"](https://github.com/alesservin/Datos-Abiertos---Obras-del-MOPC/archive/master.zip)
 
 2. Descomprime el archivo Zip descargado y ubica la carpeta resultante en el directorio de archivos de tu usuario. Ejemplo: C:\Users\Acer
@@ -26,9 +36,9 @@ En los siguientes enlaces podrás cononcer cómo descargar e instalar lo mencion
 
 1. Inicia la aplicación PyCharm
 
-2. Abre el proyecto de la siguiente manera: En el PyCharm, haz click en File -> Open... y selecciona la carpeta que contiene el proyecto, el que ubicaste en el directorio de archivos de tu usuario. Finalmente haz click en Ok y espera a que la carga finalice.
+2. Abre el proyecto de la siguiente manera: En el PyCharm, haz click en File -> Open... y selecciona la carpeta que contiene el proyecto. Finalmente haz click en Ok y espera a que la carga finalice.
 
-_**IMPORTANTE:** si el archivo mapa_obras.csv ya existe en la carpeta del proyecto, se recomienda eliminarlo antes de pasar al siguiente paso_
+_**IMPORTANTE:** si el archivo mapa_obras.csv ya existe en la carpeta del proyecto, se recomienda eliminarlo antes de realizar el siguiente paso_
 
 3. En la terminal del PyCharm ejecuta el siguiente comando:
 
